@@ -1,5 +1,6 @@
 # File_Manage_System
-A JavaWeb project based on SpringMVC
+A JavaWeb project based on SpringMVC and MyBatis
+
 
 Springmvc ¿ò¼ÜµÄ³õ´Î³¢ÊÔ
 
