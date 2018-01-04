@@ -47,7 +47,7 @@ public class SpringMVCTest {
 	// 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷
 	String driver = "com.mysql.jdbc.Driver";
 	// URL指锟斤拷要锟斤拷锟绞碉拷锟斤拷锟捷匡拷锟斤拷hello
-	String url = "jdbc:mysql://118.89.225.128:3306/springmvc";
+	String url = "jdbc:mysql://*.*.*.*:3306/springmvc";
 	// MySQL锟斤拷锟斤拷
 	String sqluser = "root";
 	String sqlpassword = "123";
